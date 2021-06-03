@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the late proceeds at White-Hall concerning the Jews who had desired by R. Manasses an agent for them, that they might return into England, and worship the God of their fathers here in their synagogues, &amp;c. : published for satisfaction to many in several parts of England, that are desirous, and inquisitive to hear the truth thereof.</title>
+            <author>Jessey, Henry, 1603-1663.</author>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70377</idno><idno type="EEBO-CITATION">12903267_95268</idno>
+  <idno type="VID">95268</idno>
+  <idno type="EEBO-PROQUEST">2248522585</idno>
+  
+            <idno type="STC">Wing J696</idno>
+            <idno type="STC">ESTC R5809</idno>
+            <idno type="OCLC">12903267</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 716:28 or 720:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the late proceeds at White-Hall concerning the Jews who had desired by R. Manasses an agent for them, that they might return into England, and worship the God of their fathers here in their synagogues, &amp;c. : published for satisfaction to many in several parts of England, that are desirous, and inquisitive to hear the truth thereof.</title>
+                  <author>Jessey, Henry, 1603-1663.</author>
+                  <author>Manasseh ben Israel, 1604-1657.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Chapman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Jessey. cf. NUC pre-1956.</note>
+                  <note>"A postscript, ... containing, 1. The proposals of R. Manasses ben Israel ..., 2. Part of his letter written Anno 1647, 3. The late progress of the Gospel amongst the Indians in New-England ..."</note>
+                  <note>Wing number M378 cancelled in Wing (CD-ROM, 1996).</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jews --  England.</term>
+               <term type="topical_term">Indians of North America --  New England --  Missions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95268:1"/>
+            <pb facs="tcp:95268:1"/>
+            <p>
+               <hi>A</hi> NARRATIVE Of the late PROCEEDS at WHITE-HALL, <hi>CONCERNING THE</hi> JEWS: Who had desired by <hi>R. Manasses</hi> an Agent for them, that they might retur<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into ENGLAND, and Worship the God of their Fa<g ref="char:EOLhyphen"/>thers here in their Synagogues, <hi>&amp;c.</hi>
+            </p>
+            <p>Published for satisfaction to many in several parts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that are desirous, and inquisitive to hear the Truth thereof.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for L. CHAPMAN, at the Crown in Popes<g ref="char:EOLhyphen"/>head-Alley, 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:95268:2"/>
+            <pb facs="tcp:95268:2"/>
+            <head>TO THE <hi>READER.</hi>
+            </head>
+            <p>BEcause many good people in divers parts of this Nation, who have often prayed heartily for the Jews Conversion, have heard a Rumor of a late <hi>Debate at VVhite-hall about the</hi> JEWS <hi>ha<g ref="char:EOLhyphen"/>ving a liberty to return into</hi> England, and are very desirous to know the Truth of things in those Proceeds, and what is the issue of those Debates; And bence, from several parts Letters have been writ, ten up to their Friends in <hi>London,</hi> desi<g ref="char:EOLhyphen"/>ring more fully to be certified herein: For their satisfaction, and for help to others that would send the Narrative to their Christian Friends, this Collection thereof by one that was present at all the Debates, is yeelded to be Published.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:95268:3"/>
+            <head>A NARRATIVE Of the late Proceeds at <hi>VVhite-hall</hi> about the <hi>JEWS,</hi> whether to be suffered to come and Trade, &amp;c. in <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Y Letters from <hi>Ol.</hi> the Lord Protector, several Doctors, and other Preachers, godly men, and some Merchants and Lawyers convened with him, and others of the Councel, [<hi>The fourth of Decemb. last</hi> 1655. <hi>and so on</hi> 2. <hi>or</hi> 3. <hi>dayes week<g ref="char:EOLhyphen"/>ly, to the</hi> 18] to consider of <hi>Proposals in behalf of the</hi> JEWES, <hi>by Rabbi Manasses Ben Israel, an Agent come to London in behalf of many of them, to live and Trade here, and desiring to have free use of their Synagogues, &amp;c.</hi>
+            </p>
+            <p>The things being spoken unto <hi>Pro,</hi> and <hi>Contra,</hi> at several meetings, some more private, and some more publick at <hi>White-Hall,</hi> and else where;</p>
+            <p>
+               <hi>The most</hi> did fear, that if they should come, many would be seduced and cheated by them, and little good would be un<g ref="char:EOLhyphen"/>to them. Hence divers of the Preachers judged, that though never such cautions to prevent those evils were prescribed, yet they would not be observed; and therefore they could not consent to their coming.</p>
+            <p n="2">2. <hi>The Major part</hi> judged that there might be such pledges or sureties, <hi>&amp;c.</hi> to keep due cautions <hi>[viz. against their Blas<g ref="char:EOLhyphen"/>pheming Christ, and Christian Religion, and aganst seducing, and cheating &amp;c.]</hi> as they may be observed; and then they may come.</p>
+            <p n="3">
+               <pb n="3" facs="tcp:95268:3"/> 3. <hi>Some judged</hi> that due cautions warranted by holy Scrip<g ref="char:EOLhyphen"/>tures being observed, it is a duty to yeild to their request of coming hither; considering</p>
+            <p n="1">1. It is Gods will there be dealing courteously with st an<g ref="char:EOLhyphen"/>gers, and persons in affliction, <hi>Exod:</hi> 23.8.</p>
+            <p n="2">2. Especially respect is to be had to the Jewes, <hi>Isa.</hi> 14.3, 4.1 <hi>Because their debtours we are, Rom.</hi> 15.27. as the Gentiles, <hi>Ma<g ref="char:EOLhyphen"/>cedouians,</hi> and other Gentiles, were in the Apostles dayes; (which was, not because those beleeving Jewes at <hi>Jerusalem</hi> administred spiritual things to those beleeving Gentiles; <hi>which they did not;</hi>) but because we partake of the <hi>Messias,</hi> and promises, and salvation, that was to the Jewes, as natu<g ref="char:EOLhyphen"/>ral branches of the Olive-tree, <hi>Rom:</hi> 9.4, 5. <hi>Eph.</hi> 3, 8. <hi>Rom:</hi> 11.17.24.</p>
+            <p n="2">2ly. <hi>Because their Brethren we are;</hi> of the same Father <hi>Abra<g ref="char:EOLhyphen"/>ham;</hi> they naturally after the flesh, we believers after the Spirit.</p>
+            <p n="3">3ly. Because we believe those natural branches shal return; and it shal be great riches and glory to the Gentiles, especi<g ref="char:EOLhyphen"/>ally to such where they are, and who deal kindly with them, <hi>Rom.</hi> 11, 12, 18, 25, 26. and we hope the time is neer.</p>
+            <p>¶ Because many Jews are now in very <hi>great streighs</hi> in many places; multitudes in <hi>Polonia, Lituania,</hi> and <hi>Prussia,</hi> by the late wars by the <hi>Swedish, Cossacks, and others,</hi> being driven away from thence: Hence their yearly Alms to the poor Jewes (of the Germane Synagogue) at <hi>Jerusalem</hi> hath cea<g ref="char:EOLhyphen"/>sed; and of 700 Widows, and poor Jews there, about four hundred have been famished, as a Letter from <hi>Jerusalem</hi> to their friends relates.</p>
+            <p>Also the Jews in <hi>France, Spain, Portugal,</hi> &amp; in the <hi>Indies,</hi> under the <hi>Spanish &amp;c.</hi> if they are professed Jews, must wear a badge of it; &amp; are exposed to many violencies, mocks, &amp; cruelties; which to avoid, many dissemble themfelves to be <hi>Roman-Ca<g ref="char:EOLhyphen"/>tholicks;</hi> and then if in any thing they appear <hi>Jewish,</hi> they forfeit goods, if not life also. Now some of these entreated <hi>Rabbi Manasses</hi> to be their Agent, to entreat this favour for their coming to <hi>England,</hi> to live and Trade here, <hi>&amp;c.</hi>
+            </p>
+            <p>And it seems to some that it would be very acceptable to the Lord, if favour be shewed them, so far as is lawful herein.
+<pb n="4" facs="tcp:95268:4"/>As it was very displeasing to the Lord, when for their sin he cast them out of <hi>Canaan,</hi> that <hi>others</hi> added to, <hi>or heaped on their affliction, Zach.</hi> 1.15, 16.</p>
+            <p>And that <hi>Edom looked on; and was as one of their enemies, Obad.</hi> v. 12, 14. and <hi>did not hide, and entertain his outcasts,</hi> as he char<g ref="char:EOLhyphen"/>ged <hi>Moab</hi> to do, <hi>Isa:</hi> 16.3, 4. Now <hi>England hath as much cause as any Nation</hi> (if not more) <hi>to favour and releive the Jews in this their suit;</hi> considering,</p>
+            <p n="1">1. The <hi>Jews</hi> that dwelt in <hi>England</hi> under <hi>Rich.</hi> 1. and King <hi>John. Hen:</hi> 3. and <hi>Edward</hi> 1. <hi>suffered very great injuries,</hi> and cruelties, and murders, by <hi>Kings,</hi> by the <hi>Barons,</hi> by <hi>Londo<g ref="char:EOLhyphen"/>ners, Yorkers,</hi> people of <hi>Norwich, Stamford,</hi> &amp;c. as our own Chronicles shew, especially <hi>Stows</hi> Survey of <hi>London,</hi> &amp; <hi>Annals.</hi>
+            </p>
+            <p>And if after <hi>Sauls</hi> death the Lord plagued <hi>Israel</hi> year after year, til some satisfaction was given to the surviving <hi>Gibeon<g ref="char:EOLhyphen"/>ites,</hi> for <hi>Sauls</hi> slaying many <hi>Gibeonites</hi> in his zeal for God; it's feared, it may offend the Lord, if we yeeld not to the Jews this courtesie which they desire; and it may be accounted some kinde of satisfaction to them.</p>
+            <p n="2">2 In <hi>no Nation</hi> hath there be en <hi>more faithsul, frequent,</hi> and <hi>fervent prayers for the Jews,</hi> then in England.</p>
+            <p n="3">3 <hi>None are more likely to convince them</hi> by scripture, and by holy life, then many in <hi>England:</hi> And Gentiles (being called a foolish Nation) must provoke Jews to jealoune, or emula<g ref="char:EOLhyphen"/>tion; and happy is <hi>England,</hi> if it be instrumental in so blessed a work.</p>
+            <p>The person that spake to that effect, had written thus.</p>
+            <p>Many of the <hi>Jews</hi> in <hi>Jerusalem</hi> being now very cruelly dealt withal, and persecuted by the <hi>Turks,</hi> (as their Letters thence <hi>desiring relief from other Jews in Germany, and Hol<g ref="char:EOLhyphen"/>land, &amp;c:</hi> sent thither by the hand of <hi>R. Nathan Stephira</hi> their Messenger do manifest:) Other Jews in several Nations perse<g ref="char:EOLhyphen"/>cuted by Papists, unless they wil turn Papists: many of these desiring by their Letters to <hi>R. Manasses Ben Israel (as he said be had shewed to the Lord Protector)</hi> that he would intreat fa<g ref="char:EOLhyphen"/>vour of our State,</p>
+            <p n="1">1 <hi>That Jews might have leave to come into</hi> England, <hi>to live and Trade here: And</hi>
+            </p>
+            <p n="2">
+               <pb n="5" facs="tcp:95268:4"/> 2 <hi>That here they wight have their Synagogues, &amp;c.</hi> Provided that due care be had in respect of these, as much as is, or ought to be, in respect of our own, and other Nations, to prevent
+<list>
+                  <item>
+                     <hi>Blashpheming the Lord Jesus Christ;</hi>
+                  </item>
+                  <item>
+                     <hi>Adoring the Law; Seducing others;</hi>
+                  </item>
+                  <item>
+                     <hi>All unrighteousness, &amp;c.</hi>
+                  </item>
+               </list> Some of us do thus beleeve upon Scripture grounds;</p>
+            <p n="1">1 <hi>That it is not sinful or unlawful, to suffer their coming hi<g ref="char:EOLhyphen"/>ther, their living and Trading here; and Worshipping the true God here, and hearing his holy Law, and his Prophets read unto them every week, publickly.</hi>
+            </p>
+            <list>
+               <label>
+                  <hi>Reas</hi> 1.</label>
+               <item>
+                  <list>
+                     <item>Because this is against no LAW neither of the Land [as the Lawyers here affirmed,] nor of GOD; as not be<g ref="char:EOLhyphen"/>ing forbid in the Old or New Testament.</item>
+                     <item>And therefore it is no sin, nor Transgression: <hi>For where there is no Law there is no Transgression, Rom:</hi> 4.15.</item>
+                  </list>
+               </item>
+            </list>
+            <p n="2">2 <hi>That it is so far from being a sin, that it is a duty, in such case, to receive and harbour them.</hi>
+            </p>
+            <p>This may appear thus.</p>
+            <p>
+               <hi>Reas.</hi> 1. it's a Duty commanded, and commended of God, in general, to be kinde to strangers, harbouring them, <hi>&amp;c. Exod.</hi> 22:21. and 23.8. <hi>Levit.</hi> 19.34. <hi>Deut.</hi> 10.19. <hi>Gen:</hi> 18.1, 2, 3. <hi>Gen.</hi> 19.1, 2, 3. 1 <hi>Tim.</hi> 5.10. <hi>Heb.</hi> 13.2. Such savour we permit and grant to other strangers.</p>
+            <p n="1">2 The Lord requires this duty as wel (or more) to<g ref="char:EOLhyphen"/>wards <hi>Jews</hi> (even when for their sins the Lord had cast them out) as to any other <hi>strangers;</hi> for concerning these, he thus gives a charge in <hi>Isa.</hi> 16.3, 4. <hi>Hide my banished ones, bewray not him that wand reth. Let my Outcasts dwel</hi> (or so<g ref="char:EOLhyphen"/>journ) <hi>with thee Moab: be thou a covert to them from the face of the spoiler.</hi>
+            </p>
+            <p n="3">3 Yea, even after their rejecting Jesus Christ, and the Lords rejecting them, yet the Apostle saith of them, <hi>That they are beloved for their Fathers sakes, Rom.</hi> 11.28. And for <hi>the Lords Covenant sake with their Fathers, Abraham, Isaac, and Jacob,</hi> feer this sin and scattering, <hi>the Lord will restore them,</hi> as he saith, <hi>Levit.</hi> 26.41, 44, 45. <hi>Mica:</hi> 7.19, 20.</p>
+            <p n="4">
+               <pb n="6" facs="tcp:95268:5"/> 4 When for their sins the Lord was <hi>displeased</hi> with the Jews, yet he hath a special eye to them; observing all the un<g ref="char:EOLhyphen"/>kinde carriage of others towards them, land <hi>is sore displeased against all such as help on their affliction,</hi> Zach. 1.15. <hi>By speaking proudly against them or looking on as one of the afflicters, or that deliver them up to such, &amp;c.</hi> Obad. ver. 11, 12, 14.</p>
+            <p n="3">3 <hi>That the Lord may require and expect this kindness towards distressed</hi> JEWS, <hi>as much of this Nation, as (or more then) of any other Nation.</hi> Considering</p>
+            <p n="1">1 That the Lord hath exalted <hi>England</hi> in spiritual, and in temporal mercies and deliverances, as much as, (or <hi>more then</hi>) any other Nation under Heaven: and all this only for the sake of our Lord Jesus, who concerning the flesh, came of the Jews, <hi>Rom.</hi> 9.5. and by whom the Co<g ref="char:EOLhyphen"/>venants and promises made to the Jews, are made over to us that are faithful, <hi>Rom.</hi> 11.16, 18, 24. <hi>Ep.</hi> 3.6. <hi>Ep.</hi> 2.12, 13, 19</p>
+            <p n="2">2 In our Nation the good people generally have more beleeved the promises touching the calling of the Jews, and the great riches and glory that shall follow to Jews, and us Gentiles; and have (and do stil) more often, and earnestly pray for it, then any other Nation that we have heard of.</p>
+            <p n="3">3 Many of the good people here, being persecuted in Queen <hi>Maries</hi> dayes, and under the Prelates since, have been kindly harboured as strangers in others Lands; and therefore should the more pity and harbour persecuted strangers, especially the persecutedJews, <hi>Exod.</hi> 23.8.</p>
+            <p n="4">4 Many cruel and inhuamen injuries have formerly been done in our Nation against the JEWS, (that intruded not into <hi>England,</hi> but had been called, and invited to come and dwel here:) cruelties by several Kings, by Lords; and by occasion of the Merchants urging their banishment, multitudes of them were drowned in Thames, or in the Sea.</p>
+            <p>Cruelties by <hi>Londoners,</hi> especially at <hi>Rich.</hi> 1. his Coronati<g ref="char:EOLhyphen"/>ons; and soon after by <hi>Yorkers,</hi> by people of <hi>Norwich, Stamford, &amp;c.</hi> as <hi>Stows Survey of London,</hi> and his <hi>Annales,</hi> and <hi>Hollings<g ref="char:EOLhyphen"/>head,</hi> and other <hi>English Chronicles</hi> sully shew.</p>
+            <pb n="7" facs="tcp:95268:5"/>
+            <p> For such grosse injuries, the Lord may be <hi>very sore displea<g ref="char:EOLhyphen"/>sed with England,</hi> as sometimes he was with <hi>Israel</hi> in general for the injuries that had formerly been done by <hi>Saul</hi> their <hi>King,</hi> in his <hi>zeal</hi> against the hiGibeonites;} unti such satisfacti<g ref="char:EOLhyphen"/>on was made: as the surviving <hi>Gibeonites</hi> desired of <hi>David,</hi> 2 <hi>Sam:</hi> 21.1, 2. And <hi>then,</hi> (and not til then) <hi>the Lord was entreated for the Land,</hi> ver. 14.</p>
+            <p>Now if the favour of <hi>harbouring</hi> the afflicted Jews, which now they intreat, be granted to the surviving JEWS, it may be accounted as some kinde of <hi>satisfaction.</hi> But if this be denyed them, it's feared the Lord may shew his displeasure to be great against <hi>England,</hi> That by this denyal may also oc<g ref="char:EOLhyphen"/>casion the more hardship unto them, by others that shal hear thereof.</p>
+            <p>Another of the Preachers said to this effect. Though the Jews are now in hardness of heart, and worthy of punish<g ref="char:EOLhyphen"/>ments; yet we had need beware lest we be occasionsof har<g ref="char:EOLhyphen"/>dening them, or instruments of punishing them. it's very re<g ref="char:EOLhyphen"/>markable what worthy <hi>Beza</hi> saith, in his Notes on <hi>Ro.</hi> 11.18. on those words, <hi>Glory not against the Branches:</hi> he saith thus. <hi>To glory in the Lord,</hi> (that is, <hi>for Gods benefits to rejoyce,</hi>) <hi>we ought: but not so that we despise the Jews, whom rather we should excite to that excellent emulation: and for the neglect of this duty, without doubt, they are and shall be punished that at this day call themselves Christians, and moved only by wickedness, and perverseness of mind, do by all means vex; and proposing ex<g ref="char:EOLhyphen"/>amples of so most filthy: Idolemanie, do more and more harden them. But as for me, willingly every day I pray for the Jews, thus.</hi>
+            </p>
+            <p>
+               <q>O Lord Jesus, thou indeed justly revengest the contempt of thy self, &amp; worship, upon this ingrateful people, whom thou punishest most severely. But O Lord, remember thy Covenants, and respect them now in misery for thy names-sake. And grant this to us, (the most unworthy of all men, to whom yet thou hast vouchsafed thy mercy;) that we going on in thy grace, may not be instruments of thine anger against them: but rather, both by the knowledg of thy word, and by the examples of holy life, by the powerful vertue of thy holy Spirit, we may reca them into the right way, that by all Nations, and peoples, thou maist once be glorified for evermore-<hi>Amen.</hi>
+               </q>
+            </p>
+            <pb n="8" facs="tcp:95268:6"/>
+            <p> This is <hi>Bezas prayer,</hi> that he expresseth in his Notes; its a remarkable <hi>Digression,</hi> that he would not have this left out. There is not the like in all his Notes, shewing his great affe<g ref="char:EOLhyphen"/>ction for the Jews conversion.</p>
+            <p>Some others, though desiring heartily the Jews conversi<g ref="char:EOLhyphen"/>on, yet feared greatly, it would prove the subversion of many here, if Jews were suffered to return hither, because so many here are soon carried aside to new Opinions.</p>
+            <p>Some answered, That now persons are carried away under notion of further light, or of new discoveries of Christ, or the Gospel: But are not like to be taken with the Jewish Religion, that deny Christ, and deny the Gospel; and have nothing in their solemn Worship that is so taking, but rather much that is very ridiculous. Therefore they are not so like to seduce others.</p>
+            <p>To this it was replyed, <hi>That the offering children to Moloch, and other Idolatry, might seem not to be taking: Yet how it took with the Jews. And the opinions of the</hi> Quakers, <hi>and of the</hi> Ranters, <hi>are not so taking to some, yet many are carried away by them.</hi>
+            </p>
+            <p>One humbly proposed this, as a <hi>Medium,</hi> that seeing if the Jews coming hither be denied, we seem to deal more hardly with Jews, then with <hi>Turks,</hi> whose coming hither to trade and converse, we deny not: And if they do come upon tearms, and agreements, there may be inconveniences, and offending of many: That because the <hi>Lawyers</hi> say, <hi>there is no Law against their coming,</hi> there may only be a connivance and permission of them; and if afterwards there be inconvenience, there may be proceeds against them, and no just cause of exceptions.</p>
+            <p>Some questioned <hi>whether the Jews conversion shall be of the Nation; or but here and there one, as of French, &amp;c. or not until Christ appear unto them; as in Converting Paul. And though we should shew mercy to Jews, yet begin at home, and not so infect our selves, or wrong our Merchants.</hi> The <hi>Merchants</hi> said; <hi>such an in-let would be to enrich Forreigners, and impoverish English Merchants.</hi> [Merchants especially had caused the Jews de<g ref="char:EOLhyphen"/>parture from <hi>England,</hi> whereby some thousands of Jews pe<g ref="char:EOLhyphen"/>rished in <hi>Thames</hi> by the cruelty of a ship-master that was to transport them; partly otherwise.</p>
+            <pb n="9" facs="tcp:95268:6"/>
+            <p> Some judged, seeing the Jews deal chiefly in way of Merchandize, and not in Husbandry, nor buying houses, nor in Manufactures; that the Jews coming and so trading might tend to the bringing lower the prizes of all sorts of commodities imported; and to the furtherance of all that have commodities vendible to be exported; and to the bene<g ref="char:EOLhyphen"/>fit of most of our Manufactures (where they shal live) by their buying of them. And thus, though the Merchants gains were somewhat abated, it might tend to the benefit of very many in our Nation, even in outward things, besides the hopes of their conversion; which time (it's hoped) is now at hand, even at the door. [This last was spoken of at a more private meeting.] One of the <hi>Lawyers</hi> rehearsed from Records the <hi>History of the Jews in England, and many of their sufferings here in the time of</hi> Constantine <hi>the Great, and of some Kings before the Conquest, and then of</hi> William <hi>the Conquerors calling them to</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>and their sufferings, and other proceeds since that time, until</hi> Edward <hi>the Firsts Reign, when many thousands of them were ur<g ref="char:EOLhyphen"/>ged to leave England, and a great part of them were drowned in</hi> Thames, <hi>or in the deep waters. And now that they are gone, they wished not their return hither again.</hi> Also the <hi>Lawyers</hi> said, <hi>That there is no Law that forbids the Jews return into</hi> England.</p>
+            <p>All having been heard, the <hi>Ld. Protector</hi> on the 18 of <hi>De<g ref="char:EOLhyphen"/>cemb,</hi> and before, <hi>professed, that he had no engagement to Jews, but only what the Scripture holds sorth; and that</hi>
+            </p>
+            <p>
+               <hi>He had hoped by these Preachers to have had some clearing the case, as to conscience. But seeing these agreed not, but were of two or three opinions, it was left the more doubt full to him and the Councel. And he hoped to do nothing herein hastily or rashly; and had much need of all their prayers, that the Lord would direct them, so as may be to his glory, and to the geo lof the Nation.</hi>
+            </p>
+            <p>And thus was the dismission of that Assembly.</p>
+            <p>The <hi>Preachers</hi> sent unto, that met, were these;</p>
+            <p n="1">1 Doctor <hi>Tuckney</hi> of <hi>Cambridge;</hi> and Dr. <hi>Whichcock</hi> Mr. <hi>New<g ref="char:EOLhyphen"/>comen</hi> of <hi>Essex,</hi> Dr <hi>VVilkinson of</hi> Oxford, Mr. <hi>Row</hi> of <hi>VVestm.</hi>
+            </p>
+            <p n="2">2 Mr. <hi>P. Nye,</hi> Mr. <hi>Carter,</hi> Mr. <hi>Caryll,</hi> Dr. <hi>Cud worth,</hi> Mr. <hi>Bridge,</hi> Mr. <hi>Ben</hi> of <hi>Dorchester.</hi>
+            </p>
+            <p n="3">3 Mr. <hi>Tho: Goodwin,</hi> Mr. <hi>Jessey,</hi> Mr. <hi>Dike</hi> neer <hi>Essex.</hi>
+            </p>
+            <pb n="10" facs="tcp:95268:7"/>
+            <p> Of <hi>Merchants,</hi> the Lord <hi>Major,</hi> and the late Lord <hi>Major,</hi> and the two <hi>Sheriffs of London,</hi> Alderman <hi>Tichburne,</hi> Mr. <hi>Cres<g ref="char:EOLhyphen"/>set</hi> master of the Charter-house, Mr. <hi>Kiffen.</hi>
+            </p>
+            <p>
+               <hi>Lawyers,</hi> the Lord chief Justice <hi>Glyn,</hi> and the Lord chiese Baron <hi>Steele.</hi>
+            </p>
+            <p>The Protector shewed a favourable inclination towards our harbouring the afflicted Jews, (professing he had no en<g ref="char:EOLhyphen"/>gagements out upon scripture grounds) in several Speeches that he made. So did some of his Councel, though some in<g ref="char:EOLhyphen"/>clined not to their coming hither. <hi>The Counsel of the Lord it shall stand.</hi> What shal be the issue, the most wise God knows; and he wil order all for the best.</p>
+            <p>R. Manasses ben Israel <hi>stil remains</hi> in London, <hi>desiring a fa<g ref="char:EOLhyphen"/>vourable Answer to his</hi> Proposals. <hi>And not receiving it, he hath desired, if it may not be granted, that he may have a favourable dismission, that he may return.</hi>
+            </p>
+            <p>
+               <hi>But other great affairs being now in hand, and this being a bu<g ref="char:EOLhyphen"/>siness of very great concernment, no absolnte</hi> Answer <hi>is yet return<g ref="char:EOLhyphen"/>ed unto him, unto this presem day of the conclusion hereof, being vulgarly</hi> April 1/11 1656, <hi>but according to the (Holy Scripture) the</hi> 14. <hi>or 15th of</hi> Abib <hi>the first moneth,</hi> (<hi>called also</hi> Nisan, Exod. 13.4. Est. 3.7. [<hi>at which time the Jews feast of Passeover was to be kept,</hi> Numb. 28: 16, 17.</p>
+            <p>Many Jewish Merchants had come from beyond seas to <hi>London,</hi> and hoped they might have enjoyed as much privi<g ref="char:EOLhyphen"/>ledge here, in respect of Trading, and of their Worshipping the God of <hi>Abraham, Isaac,</hi> and <hi>Jacob,</hi> here, in Synagogues, publickly, as they enjoy in <hi>Holland,</hi> and did enjoy in <hi>Poland, Prussia,</hi> and other places. But after the conference and Debate at <hi>VVhite-Hall</hi> was ended, they heard by some, that the great<g ref="char:EOLhyphen"/>er part of the Ministers were against this: therefore they re<g ref="char:EOLhyphen"/>moved hence again to beyond the Seas, with much grief of heart, that they were thus disappointed of their hopes. Jews must be planted into their own Olive, &amp; great riches shal <hi>y<seg rend="sup">t</seg>
+               </hi> be to the believing Gentiles, <hi>Rom.</hi> 11.12, 15. <hi>Isa.</hi> 60.1, 2, 3. <hi>Pray for the Peace of Jerusalem, they shall prosper that love it,</hi> Ps. 122.6.</p>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:95268:7"/>
+            <head>Here followeth part of a Letter written at <hi>Ligorn, 1652.</hi> and sent by the Preacher in the <hi>Phoenix</hi> Frigot, to a friend in London.</head>
+            <opener>
+               <dateline>Ligorn, aboard the <hi>Phoenix,</hi>
+                  <date>
+                     <hi>19</hi> of the <hi>1. 1652.</hi>
+                  </date>
+               </dateline>
+               <salute>Dear Brethren:</salute>
+            </opener>
+            <p>WE have great cause to rejoyce, that the Lord carrieth on the endeavours of his people to long after the good of the poor blinde JEWS. Some of us were desirous to see their Synagogue: and coming, they were at their ser<g ref="char:EOLhyphen"/>vice. But their <hi>Glory</hi> we sorbear to mention: their <hi>Lamps,</hi> their <hi>Candlesticks,</hi> their <hi>Mitres,</hi> their <hi>Bells, Aarons bells</hi> they say.</p>
+            <p>We spake to one that could speak a little English, a very grave proper man; and asked him the meaning of such and such things. And we, as we durst, spake of the <hi>Messias,</hi> and his actings.</p>
+            <p>But he said, <hi>The Messias was not come;</hi> moreover. <hi>That the Jews are naughty men now, but they shal be good.</hi> We asked, when? they answered, <hi>It is about ten years first.</hi>
+            </p>
+            <p>They long to hear that <hi>England</hi> would to lerate them; sure<g ref="char:EOLhyphen"/>ly the promises of <hi>Jehovah</hi> wil be performed, and he wil give them favour in all Nations. O that ENGLAND may not be slack herein. Shall they be <hi>Tolerated</hi> by the POPE, and by the Duke of FLORENCE; by the TURKS, and by the BARBARIANS, and others; and shal <hi>England</hi> stil have laws in force against them? when shal they be recalled?</p>
+            <p>Truly, we are perswaded, the <hi>Antichristian State</hi> must have a great <hi>fall,</hi> before their Conversion. O that the poor Jews might have toleration to COME into <hi>England</hi> OUT OF HER, that they may be succoured in that Terrible day.</p>
+         </div>
+         <div type="postscript">
+            <pb n="12" facs="tcp:95268:8"/>
+            <head>A POSTSCRIPT, To fill up the following Pages, that else had been vacant: Containing,</head>
+            <list>
+               <item>1 <hi>The Proposals of</hi> R. Manasses ben Israel, <hi>more fully.</hi>
+               </item>
+               <item>2 <hi>Part of his Letter written Anno</hi> 1647.</item>
+               <item>3. <hi>The late progress of the Gospel amongst the Indians in New-England.</hi>
+               </item>
+            </list>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <p>
+                  <hi>THe Substance of the late</hi> Proposals <hi>by</hi> R. Manasses ben Is<g ref="char:EOLhyphen"/>rael, <hi>was to desire these favours.</hi>
+               </p>
+               <p n="1">1 That the Hebrew Nation may be received here; and be protected from all wrongs, as the <hi>English</hi> are, or should be.</p>
+               <p n="2">2 To have publick Synagogues allowed in <hi>England, &amp;c.</hi> to observe their Religion, as they ought.</p>
+               <p n="3">3 To have a burying place out of the Town, without be<g ref="char:EOLhyphen"/>ing troubled by any about their burials.</p>
+               <p n="4">4 To Traffick as freely in all sorts of Merchandize, as other strangers.</p>
+               <p n="5">5 To the end that the Jews that come over may be for the profit of this Nation, and prejudice or offend none; that a person of Quality may be assigned by the L. Protector to re<g ref="char:EOLhyphen"/>ceive their Pasports, and their Oath of Fealty to him.</p>
+               <p n="6">6 To prevent trouble to our Judges and others, that mat<g ref="char:EOLhyphen"/>ters of differences amongst Jews, may be accorded and de<g ref="char:EOLhyphen"/>termined by the heads of Synagogues, and others with them, amongst themselves.</p>
+               <p n="7">7 To repeal any Laws (if any such be) as are against Jews: for their greater security.</p>
+               <p>This was the substance of the <hi>Proposals.</hi>
+               </p>
+               <p>The Protector when the <hi>Proposals</hi> had been read, said, If more were proposed then it was meet should be granted: It might now be considered, 1 <hi>Whether it be lawful at all to re<g ref="char:EOLhyphen"/>ceive in the Jews.</hi> 2 <hi>If it be lawfull, then upon what tearms its meet to receive them.</hi>
+               </p>
+               <pb n="13" facs="tcp:95268:8"/>
+               <p> His further speaking in favour of that Nation, and the ex<g ref="char:EOLhyphen"/>pressions of others <hi>Pro</hi> and <hi>Contra,</hi> are before related.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. <hi>II. Here followeth part of a Letter written by</hi> R. Manasses <hi>from</hi> Amsterdam <hi>in September</hi> 5407 (<hi>or</hi> 1647) <hi>to one in</hi> England, <hi>whilst the Sword in our late VVars consumed many Thousands.</hi>
+               </head>
+               <opener>
+                  <salute>Senhor</salute>
+               </opener>
+               <p>
+                  <hi>NO puedo enar.</hi> That is, <hi>Sir, I</hi> cannot express the joy that <hi>I</hi> have when <hi>I</hi> read your Letters, ful of desires to see your Country prosperous, which is heavily afflicted with Civil wars, without doubt, by the just Judgment of God. And it should not be in vaine to attribute it to the punish<g ref="char:EOLhyphen"/>ment of your Predecessors faults, committed against ours; when ours being deprived of their liberty under deceitful<g ref="char:EOLhyphen"/>ness, so many men were slaine, only because they kept close unto the Tents of <hi>Moses</hi> their Legislator, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. <hi>III. Of the proceeds amongst Indians in New-England.</hi>
+               </head>
+               <p n="1">1 In <hi>Martins Vineyard,</hi> (Southerly from <hi>Boston,</hi> and from <hi>Cape Cod:</hi>) the IV Book published by Mr. <hi>Whitfield,</hi> 1651. The Lord began with one <hi>Hiacome,</hi> 1643. whom his King did strike on the face, because he spake for the <hi>English: Hiacome</hi> was patient, &amp; said to one afterward, <hi>I had one hand for injuries; and the other laid greater hold on God.</hi>
+               </p>
+               <p>1645, and 1646 <hi>Indians</hi> observed, that Gods hand by a sick<g ref="char:EOLhyphen"/>ness was far more on them, then on <hi>Hiacomes</hi> house and friends; and met, and would know things of Religion. He spake of <hi>One God, &amp;c.</hi> A great <hi>Indian</hi> said, that had 37 gods, shal <hi>I</hi> throw away 37 gods for one? <hi>Hiacome</hi> said, I have done it, and you see <hi>I</hi> am now preserved. That <hi>Indian</hi> said, Ile throw away all my gods too, and serve that one God with you.</p>
+               <p>1647 <hi>Sagamor Towan quatick</hi> turning from Paganisme was
+<pb n="14" facs="tcp:95268:9"/>shot by a divellish <hi>Indian</hi> in the night: the next morning Mr. <hi>Mahew</hi> (that preacheth to those <hi>Indians,</hi>) found him praising God, that he was not kild.</p>
+               <p>1649 Many <hi>Indians</hi> came to <hi>Hiacoms</hi> to learn more of God, and were encouraged not to fear their <hi>Pawaw</hi> Witches.</p>
+               <p>1650 By <hi>Hiacomes</hi> means <hi>Humamequem</hi> turned from paganism.</p>
+               <p>In V <hi>Book,</hi> called <hi>Strength out of Weakness,</hi> Mr. <hi>Mahew</hi> relates 1651 Three converted from being <hi>Pawaws,</hi> losing those gains, friends, <hi>&amp;c.</hi> There is a conference with an <hi>Indian.</hi>
+               </p>
+               <p>In VI Book, called, <hi>Tears of Repentance,</hi> 1653, Mr. <hi>Mahew</hi> sets down the Covenant to serve JEHOVAH, that those <hi>Indi<g ref="char:EOLhyphen"/>ans</hi> made 1652. that about 30 <hi>Indian</hi> children were then at School. These praying <hi>Indians</hi> were shortly to be gathered into one Town.</p>
+               <p>Mr. <hi>Eliot</hi> relates the confessions and repencance of about fif<g ref="char:EOLhyphen"/>teen of <hi>Natick Indians,</hi> in <hi>New-England Bay.</hi> Their own words Englished, and the hopeful words of two <hi>Indian</hi> chil<g ref="char:EOLhyphen"/>dren under three yeers of age before they dyed; As <hi>God, and Jesus Christ help me: God and Jesus Christ bless is,</hi> before it would eat. The other, when its bawbles were brought it, be<g ref="char:EOLhyphen"/>ing in pain, putting thom away, it said, <hi>Ile leave my basket, for I am going to God; Ile leave my spoon and my Tray, for I am going to God.</hi>
+               </p>
+               <p>In the <hi>VII,</hi> and last <hi>Book,</hi> called, <hi>Alate and further wanifesta<g ref="char:EOLhyphen"/>tion of the Gospels progrest among Indians in</hi> N. E. Mr. Eliot re<g ref="char:EOLhyphen"/>lates the <hi>Examination of the Indians at Rocksbury</hi> 13 of a moneth, 1654. before an Assenibly of the Eldars in and a<g ref="char:EOLhyphen"/>bout the Bay, and others, concerning their know ledge inthe grounds of Christian Religion. The Narration whereof is judged fit to be printed, that God may have Praises for his free Grace wonder fully manisested; as it is attested by</p>
+               <closer>
+                  <signed>
+                     <hi>H. Whitfield, Ed. Calamy, Si Ashe,</hi> and <hi>J. Arthur.</hi>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:95268:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
